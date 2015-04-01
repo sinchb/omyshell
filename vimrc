@@ -31,6 +31,9 @@ set nu
 
 set mouse=a
 
+" Display status line position
+set ruler
+
 "Find trailing whitespace
 highlight ExtraWhitespace ctermbg=yellow guibg=yellow
 match ExtraWhitespace '\s\+$'
