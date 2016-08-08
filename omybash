@@ -1,0 +1,9 @@
+# .omybash
+
+# alias
+alias grep="grep --color=auto"
+
+alias ls="ls --color=always"
+
+# Git completion
+source ~/.git-completion.bash
